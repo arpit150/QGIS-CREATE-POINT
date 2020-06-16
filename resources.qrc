@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Create_Point" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
